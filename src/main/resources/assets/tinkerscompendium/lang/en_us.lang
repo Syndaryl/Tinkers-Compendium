@@ -413,7 +413,7 @@ tile.trapdoor_steel.name=Steel Trapdoor
 //Tools, Armors, & Armorstation Descriptions
 item.fishingrod.desc=Fish big game or little, this modular fishing rod can do nearly everything except get that boot dropped into the water the other day.
 
-item.shears.desc=Shears are usefull to any farmer looking to have a steady flow of wool, wool fpr use in crafting or trade for profit.
+item.shears.desc=Shears are usefull to any farmer looking to have a steady flow of wool, wool for use in crafting or trade for profit.
 
 item.roundshield.name=Buckler Sheild
 item.roundshield.desc=A small shield with low protection but allows the user to maintain manuverablitly in combat.\n \nAbilities: \nCounter attacks - With a bish bash bosh of the shield, slowing down your oponenets is a breaze.\nSmall Stature - leaves little room for modifiers.
@@ -503,13 +503,13 @@ modifier.td_calcium.desc=Sticks and stones won't break my bones.
 modifier.td_toasty.name=Toasty
 modifier.td_toasty.desc=It feels like an oven in here...
 modifier.td_magnetism.name=Magnetism
-modifier.td_magnetism.desc=Tends to grab onto metal things and holdfast.
+modifier.td_magnetism.desc=Tends to grab onto metal things and hold fast.
 
 modifier.td_pricked.name=Prickly
 modifier.td_pricked.desc=Accupuncture for dummies.
 modifier.td_callagen.name=Collagen
 modifier.td_callagen.desc=Keeps bones from breaking, especially when you hit the floor.
-modifier.td_pillarsofttitans.name=Pillaars of Titans
+modifier.td_pillarsofttitans.name=Pillars of Titans
 modifier.td_pillarsofttitans.desc=I will not be moved.
 
 modifier.td_earthbound.name=Earthbound
@@ -530,11 +530,11 @@ modifier.td_hog.name=Hog
 modifier.td_hog.desc=My armor ate my homework...
 
 modifier.td_antiblindness.name=Anti-Blindness
-modifier.td_antiblindness.desc=results may vary, Dont look directly at the sun.
+modifier.td_antiblindness.desc=Results may vary, Dont look directly at the sun.
 modifier.td_deadmansswitch.name=Deadmans Switch
 modifier.td_deadmansswitch.desc=What comes around goes around.
 modifier.td_nightvision.name=Night Vision
-modifier.td_nightvision.desc=Nights Eye's
+modifier.td_nightvision.desc=Nights Eyes
 modifier.td_protection.name=Protection
 modifier.td_protection.desc=Protection Description
 modifier.td_projprotection.name=Projectile Protection
